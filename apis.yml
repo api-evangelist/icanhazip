@@ -39,7 +39,6 @@ apis:
   - name: Icanhazip
     description: "IP Address API"
     humanURL: https://major.io/icanhazip-com-faq/
-    baseURL: https://major.io/icanhazip-com-faq/
     tags:
       - Development
     properties:
